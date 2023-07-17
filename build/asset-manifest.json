@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b075eb4d.js",
+    "static/media/logo-labenu.svg": "/static/media/logo-labenu.5e5dd00f070454e798e13996252b8b00.svg",
+    "static/media/status-bar.svg": "/static/media/status-bar.9172ba35e0740cdf1be6d8c9a6509556.svg",
+    "static/media/mini-logo-labenu.svg": "/static/media/mini-logo-labenu.549c8257f72192d2b3d3ddfe02ad74ab.svg",
+    "index.html": "/index.html",
+    "static/media/comment-button.svg": "/static/media/comment-button.a1955665e043c2a5d91929638d2ee859.svg",
+    "static/media/close-icon.svg": "/static/media/close-icon.d7fe40816bc5b946cdca148522b5d4b7.svg",
+    "main.b075eb4d.js.map": "/static/js/main.b075eb4d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b075eb4d.js"
+  ]
+}
