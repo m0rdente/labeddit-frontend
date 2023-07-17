@@ -21,7 +21,7 @@
 - https://documenter.getpostman.com/view/27038980/2s946h6r1d
 
 ## Demonstração
-[Link Demonstração] (mordentepriscila-labeddit.surge.sh)
+- mordentepriscila-labeddit.surge.sh
 
 ### Executando o projeto
 
